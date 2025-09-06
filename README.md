@@ -2,7 +2,7 @@
 
 A comprehensive event management application built with Next.js 15, TypeScript, and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **View Events**: Browse all upcoming events with search and filter capabilities
 - **Create Events**: Add new events with detailed information
@@ -11,7 +11,7 @@ A comprehensive event management application built with Next.js 15, TypeScript, 
 - **RSVP System**: Track event attendance
 - **Responsive Design**: Mobile-first responsive UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript
@@ -31,7 +31,7 @@ A comprehensive event management application built with Next.js 15, TypeScript, 
 1. Clone the repository
 
 ```bash
-git clone [<repository-url>](https://github.com/shant00/event-management.git)
+git clone (https://github.com/shant00/event-management.git)
 cd event-management
 ```
 
@@ -49,4 +49,4 @@ yarn dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-### Live Url: https://event-management-tan-theta.vercel.app/
+#### Live Url: https://event-management-tan-theta.vercel.app/
