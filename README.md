@@ -31,7 +31,7 @@ A comprehensive event management application built with Next.js 15, TypeScript, 
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/shant00/event-management.git](https://github.com/shant00/event-management.git)
+git clone https://github.com/shant00/event-management.git
 cd event-management
 ```
 
